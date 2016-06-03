@@ -1,3 +1,5 @@
+# Repository moved into https://github.com/ihrwein/syslog-ng-rust-modules
+
 # actiondb-parser
 
 A fast and easy way to parse your logs into events.
